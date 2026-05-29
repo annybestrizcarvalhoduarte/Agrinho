@@ -262,7 +262,7 @@ function exibirHistorico() {
                     </div>
                     <div class="plantacao-detail">
                         <span class="plantacao-detail-label">Lucro</span>
-                        <span class="plantacao-detail-value" style="color: ${lucro >= 0 ? '#27AE60' : '#E74C3C'}">R$ ${lucro}</span>
+                        <span class="plantacao-detail-value" style="color: ${lucro >= 0 ? '#ffffff' : '#fd8bca'}">R$ ${lucro}</span>
                     </div>
                 </div>
             </div>
