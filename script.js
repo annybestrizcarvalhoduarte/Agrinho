@@ -173,9 +173,9 @@ function calcularLucro() {
     // Mudar cor se lucro for negativo
     const resultLucro = document.getElementById('resultLucro');
     if (lucro < 0) {
-        resultLucro.style.color = '#E74C3C';
+        resultLucro.style.color = '#ffffff';
     } else {
-        resultLucro.style.color = '#27AE60';
+        resultLucro.style.color = '#fd8bca';
     }
 }
 
